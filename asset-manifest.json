@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/glass/static/css/main.e5be7c2f.css",
+    "main.css": "/glass/static/css/main.08011c73.css",
     "main.js": "/glass/static/js/main.d09bd034.js",
     "static/js/787.6223b60d.chunk.js": "/glass/static/js/787.6223b60d.chunk.js",
     "index.html": "/glass/index.html",
-    "main.e5be7c2f.css.map": "/glass/static/css/main.e5be7c2f.css.map",
+    "main.08011c73.css.map": "/glass/static/css/main.08011c73.css.map",
     "main.d09bd034.js.map": "/glass/static/js/main.d09bd034.js.map",
     "787.6223b60d.chunk.js.map": "/glass/static/js/787.6223b60d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5be7c2f.css",
+    "static/css/main.08011c73.css",
     "static/js/main.d09bd034.js"
   ]
 }
